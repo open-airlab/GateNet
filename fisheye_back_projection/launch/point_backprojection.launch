@@ -1,0 +1,10 @@
+<launch>
+	<!-- set to false when doing real time data-->
+	<!-- <param name ="/use_sim_time" value="true"/>    -->
+	<rosparam command="load" file="$(find fisheyes_backprojection)/config/resized_calibration_params.yaml" />
+
+	<node name="point_backprojection" pkg="fisheyes_backprojection" type="point_backprojection" output="screen" />
+
+  <node name="gate_efk_node" pkg="sensor_filter_update" type="simple_ekf_node" output="screen"/>
+
+</launch>
