@@ -12,6 +12,11 @@ The figure illustrates  of the working principles of our gate perception system.
 
 ![alt text](https://raw.githubusercontent.com/open-airlab/GateNet/master/visual_abstract.png) 
 
+[![Alternate Text]({https://raw.githubusercontent.com/open-airlab/GateNet/master/visual_abstract.png})]({https://youtu.be/gzOIwb_gJyw} "Link Title")
+
+<!-- ![youtube](https://youtu.be/gzOIwb_gJyw) -->
+<!-- [![Alternate Text]({image-url})]({video-url} "Link Title") -->
+
 ### AU-DR Dataset
 The AU-DR dataset includes different gate layout cases that appear in a drone racing scenario: (a) single gate, (b)multiple gates, (c ) occluded gates, (d) partially observable gates, (e) gates with a distant layout, and (f) a gate that is too close to the drone’s camera.
  
@@ -21,6 +26,6 @@ The AU-DR dataset includes different gate layout cases that appear in a drone ra
 
 ## References
 
-H.Phum, I. Bozcan, A. Sarabakha, S. Haddadin and E. Kayacan, "GateNet: Efficient Deep Neural Network for Gate Perception in Autonomous Drone Racing", submitted to IEEE International Conference on Robotics and Automation (ICRA) 2021.
+H.Pham, I. Bozcan, A. Sarabakha, S. Haddadin and E. Kayacan, "GateNet: Efficient Deep Neural Network for Gate Perception in Autonomous Drone Racing", submitted to IEEE International Conference on Robotics and Automation (ICRA) 2021.
 
 
