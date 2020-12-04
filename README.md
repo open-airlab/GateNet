@@ -17,7 +17,7 @@ The AU-DR dataset includes different gate layout cases that appear in a drone ra
  
 ![alt text](https://raw.githubusercontent.com/open-airlab/GateNet/master/samples.png)
  
- You can download AU-DR datasets [here](https://drive.google.com/file/d/1OGAbPMddQKgZ99VzRO91__d9SfnkclHK/view?usp=sharing).
+ You can download AU-DR datasets [here](https://drive.google.com/file/d/1tkLJri7lnPIcUq93XHbT8sByT6V3ynA2/view?usp=sharing).
 
 ## References
 
