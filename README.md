@@ -12,7 +12,7 @@ The figure illustrates  of the working principles of our gate perception system.
 
 ![alt text](https://raw.githubusercontent.com/open-airlab/GateNet/master/visual_abstract.png) 
 
-[![Alternate Text]({https://raw.githubusercontent.com/open-airlab/GateNet/master/visual_abstract.png})]({https://youtu.be/gzOIwb_gJyw} "Link Title")
+<!-- [![Alternate Text]({https://raw.githubusercontent.com/open-airlab/GateNet/master/visual_abstract.png})]({https://youtu.be/gzOIwb_gJyw} "Link Title") -->
 
 <!-- ![youtube](https://youtu.be/gzOIwb_gJyw) -->
 <!-- [![Alternate Text]({image-url})]({video-url} "Link Title") -->
